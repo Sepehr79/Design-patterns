@@ -5,3 +5,4 @@ In this repository I try to learn design patterns
 * Creational
     * Builder
     * Singleton
+    * Factory
